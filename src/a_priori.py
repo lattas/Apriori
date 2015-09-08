@@ -4,9 +4,6 @@
 #
 # @author Alexandros Lattas
 #
-# 3rd Assingment of 2015
-# for Prof. P. Louridas,
-#
 # created with Spyder
 #
 
