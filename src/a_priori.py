@@ -1,4 +1,3 @@
-"""DMST Algorithms 3rd Assignment 2015"""
 #
 # a_priori.py
 #
